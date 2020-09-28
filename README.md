@@ -1,2 +1,2 @@
 # Bar-chart
-bar chart using python
+Bar chart using python
